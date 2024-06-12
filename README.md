@@ -1,2 +1,2 @@
 # Fundamentals_Of_Software_Engineering
-4th Semester FSE Course 
+This repository contains assignments,resources for the 4th Semester Fundamentals of Software Engineering course.
